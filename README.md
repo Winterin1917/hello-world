@@ -1,2 +1,5 @@
 # hello-world
-Viva La Vida
+Hi there!
+
+it's Winterin1917 talking to you.
+I'm a postgraduat in UESTC.
